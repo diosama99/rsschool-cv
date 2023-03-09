@@ -8,7 +8,7 @@
 * Telegram: @HelDi9
 
 ## **About Me**
-Since 2021 I am trying to break through in IT and now I am studying at RS School, which is very interesting and difficult (in some ways). I hope to go till the very end of this course and become a developer. 
+Since 2021 I've been learning coding little by little and now I am studying at RS School, which is very interesting and difficult (in some ways). I hope to go till the very end of this course and become a developer. 
 
 ## **Skills**
 - Python
