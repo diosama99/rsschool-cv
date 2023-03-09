@@ -25,10 +25,10 @@ const colourAssociation = (array) => array.map(([a, b]) => ({[a]:b}))
 JUG Ru Group: Technical support
 
 ## **Education**
-"Поколение Python": курс для начинающих
+"Поколение Python": курс для начинающих  
 "Поколение Python": курс для продвинутых
 
 ## **Languages**
-English - С1
-Japanese - N1
+English - С1  
+Japanese - N1  
 Russian - Native speaker
