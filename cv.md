@@ -1,5 +1,5 @@
 # Daurceva Elena
-## Junior-Frontend Developer
+### Junior-Frontend Developer
 
 ## **Contact information:**
 
@@ -8,20 +8,27 @@
 * Telegram: @HelDi9
 
 ## **About Me**
+Since 2021 I am trying to break through in IT and now I am studying at RS School, which is very interesting and difficult (in some ways). I hope to go till the very end of this course and become a developer. 
 
 ## **Skills**
+- Python
+- HTML
+- CSS
+- Javascript
 
 ## **Code Example**
+```
+const colourAssociation = (array) => array.map(([a, b]) => ({[a]:b}))
+```
 
 ## **Work experience**
+JUG Ru Group: Technical support
 
 ## **Education**
- 
+"Поколение Python": курс для начинающих
+"Поколение Python": курс для продвинутых
+
 ## **Languages**
-
-
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+English - С1
+Japanese - N1
+Russian - Native speaker
