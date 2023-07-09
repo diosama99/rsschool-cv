@@ -7,9 +7,9 @@
 .main {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
-    grid-template-rows: repeat(1);
+    grid-template-rows: auto;
     background-color: #b4f0a3;
-    height: 100vh;
+    background-attachment: fixed;
 }
 
 .left-bar {
@@ -17,23 +17,59 @@
 }
 
 .container {
-    grid-column: 3/13;
+    grid-column: 3/10;
 }
 
 .footer {
-    grid-column: 1/13;
+    grid-column: 3/10;
 }
 
 .header {
+    padding-bottom: 10px;
+    margin-bottom: 30px;
     background-color: #b4f0a3;
     border-bottom: solid;
     border-width: 1px;
-    grid-column: 3/13;
+    grid-column: 3/10;
     width: 600px;
     height: 100px;
     
 }
 
-h1, h3 {
-    padding: 10px;
+h1, h2, h3 {
+    padding: 10px 0px 25px 0px;
+}
+
+.container ul {
+    list-style: none;
+    /* margin: 1em; */
+}
+
+.contact-information>ul {
+    list-style: none;
+}
+
+.contact-information, .about-me, .skills, .code-example, .work, .education, .languages {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+.gray {
+    padding: 1em;
+    max-width: 500px;
+    background-color: #7fc6a0;
+}
+
+@media (max-width: 1300px) {
+    .left-bar {
+        grid-column: 1/13;
+        grid-row: 1/2;
+    }
+    .container {
+        max-width: 610px;
+    }
+
+
 }
